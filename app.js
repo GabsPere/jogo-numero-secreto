@@ -37,7 +37,7 @@ function verificarChute() {
     let chute = document.querySelector('input').value;
     if (chute == numeroSecreto) {
         quantidadeTentativas = tentativas > 1? 'tentativas' : 'tentativa';
-        mensagemTentativa = `Não é o Holdini, mas manja das adivinhações!\nVocê usou ${tentativas} ${quantidadeTentativas}.`
+        mensagemTentativa = `Não é o Houdini, mas manja das adivinhações!\nVocê usou ${tentativas} ${quantidadeTentativas}.`
         exibirTextoNaTela('h1','Acertou!!');
         exibirTextoNaTela('p',mensagemTentativa);
         document.getElementById('reiniciar').removeAttribute('disabled');
