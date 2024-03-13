@@ -1,7 +1,10 @@
-# Jogo do número secreto
+<h1 align="center">Jogo do número secreto</h1> 
 
-O objetivo desse algoritmo é criar um jogo de adivinhação. O texto e aúdio na página mudam conforme os números digitados, indicando se o número secreto é maior ou menor.
-
+<p>
+ O objetivo desse algoritmo é criar um jogo de adivinhação. O texto e aúdio na página mudam conforme os números digitados, indicando se o número secreto é maior ou menor.
+ Acesse o projeto clicando <a href ="https://jogo-numero-secreto-1bpdcsvv0-gabsperes-projects.vercel.app/">aqui</a>
+</p>
+ 
 ## Aprendizados:
  - **JavaScript** - Lógica de programação;
  - **HTML** - Conceitos básicos;
